@@ -23,7 +23,11 @@
    <h2 align="left">Skills 💻</h2>
    
    [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,git,docker,linux,laravel,mysql,vim)](https://skillicons.dev)
-   
+
+   <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AndreSantos01}/count.svg" /></p> 
+<br></div>
 </div>
   
  
